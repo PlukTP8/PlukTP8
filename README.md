@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Full-stack Developer with **1+ year of professional experience** in web application development.
 
@@ -28,19 +28,19 @@ My primary focus is **Frontend Development with React, Next.js and TypeScript**,
 
 I also work with requirements, user flows, business logic, technical design, task breakdown and development estimation.
 
-- 💻 Building Web Applications & Admin / Back Office systems
-- ⚡ React / Next.js / TypeScript focused
-- 🔧 Backend & REST API development
-- ☁️ AWS, Docker & CI/CD
-- 🤖 AI Integration & Automation
-- 📋 System Analysis & Technical Planning
-- 🚀 Interested in System Design & Technical Project Management
+-  Building Web Applications & Admin / Back Office systems
+-  React / Next.js / TypeScript focused
+-  Backend & REST API development
+-  AWS, Docker & CI/CD
+-  AI Integration & Automation
+-  System Analysis & Technical Planning
+-  Interested in System Design & Technical Project Management
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,materialui" />
@@ -48,7 +48,7 @@ I also work with requirements, user flows, business logic, technical design, tas
 
 `Redux` `Context API` `React Hook Form`
 
-### ⚙️ Backend & API
+### Backend & API
 
 <p>
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python" />
@@ -56,13 +56,13 @@ I also work with requirements, user flows, business logic, technical design, tas
 
 `REST API` `Swagger` `Authentication` `JWT` `Roles & Permissions`
 
-### 🗄️ Database
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,vercel" />
@@ -70,7 +70,7 @@ I also work with requirements, user flows, business logic, technical design, tas
 
 `EC2` `S3` `ECR` `ECS` `Docker Compose` `CI/CD` `Domain/DNS` `SSL/HTTPS`
 
-### 🤖 AI & Automation
+### AI & Automation
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -78,7 +78,7 @@ I also work with requirements, user flows, business logic, technical design, tas
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -88,9 +88,9 @@ I also work with requirements, user flows, business logic, technical design, tas
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🏢 Employee Engagement Platform
+### Employee Engagement Platform
 
 Admin / Back Office system for an Employee Engagement Platform.
 
@@ -104,7 +104,7 @@ Admin / Back Office system for an Employee Engagement Platform.
 
 ---
 
-### 🌐 Corporate Website
+### Corporate Website
 
 Corporate website built with Next.js with cloud deployment and analytics integration.
 
@@ -114,7 +114,7 @@ Corporate website built with Next.js with cloud deployment and analytics integra
 
 ---
 
-### 🤖 AI Chatbot Platform
+### AI Chatbot Platform
 
 Personal project / study for designing a multi-company AI chatbot platform.
 
@@ -124,7 +124,7 @@ Personal project / study for designing a multi-company AI chatbot platform.
 
 ---
 
-### ⚡ AI Verification Workflow
+### AI Verification Workflow
 
 AI-assisted workflow for supporting result verification and approval processes.
 
@@ -134,7 +134,7 @@ AI-assisted workflow for supporting result verification and approval processes.
 
 ---
 
-# 📋 System Analysis & Planning
+# System Analysis & Planning
 
 ```text
 Requirement Analysis
